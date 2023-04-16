@@ -3,7 +3,7 @@ L4D2 Human and Zombie Shop by HarryPoter
 * (Survivor) Killing zombies and infected to earn credits
 * (Infected) Doing Damage to survivors to earn credits
 
-* [Private Version | 新版插件](https://github.com/fbef0102/Game-Private_Plugin/tree/main/Plugin_插件/Fun_娛樂/L4D2_Buy_Store)
+> __Note__ This Plugin has been discontinued, [New Version here](https://github.com/fbef0102/Game-Private_Plugin/tree/main/Plugin_插件/Fun_娛樂/L4D2_Buy_Store)
 
 * [Video | 影片展示](https://youtu.be/LP0ALxlbaZE)
 
@@ -201,6 +201,9 @@ L4D2 Human and Zombie Shop by HarryPoter
 # 中文說明
 人類與特感的購物商城 (無資料庫與特殊商品)
 
+> __Note__ 此插件已停止更新，如要更多功能，[新版插件請點擊這裡](https://github.com/fbef0102/Game-Private_Plugin/tree/main/Plugin_插件/Fun_娛樂/L4D2_Buy_Store)
+> * 附有特殊商品與金錢轉移功能以及跨資料庫功能
+
 * 功能
 	1. (人類) 殺死特感與小殭屍獲取金額
 	2. (特感) 對倖存者造成傷害獲取金額
@@ -208,7 +211,6 @@ L4D2 Human and Zombie Shop by HarryPoter
 	4. 自定義獲取的金額
 	5. 通關與滅團都有獎勵
 	6. 可設置購物冷卻時間
-> __Note__ 如要更多功能，[請點我查看新版的購物插件](https://github.com/fbef0102/Game-Private_Plugin/tree/main/Plugin_%E6%8F%92%E4%BB%B6/Fun_%E5%A8%9B%E6%A8%82/L4D2_Buy_Store#%E4%B8%AD%E6%96%87%E8%AA%AA%E6%98%8E)，附有特殊商品與金錢轉移功能以及資料庫功能
 
 * <details><summary>命令中文介紹 (點我展開)</summary>
 
