@@ -132,104 +132,104 @@ static char g_sWeaponModels2[MAX_WEAPONS2][] =
 
 static char weaponsMenu[][][] = 
 {
-	{"pistol",			"Pistol", 			"50"},
-	{"pistol_magnum",	"Magnum", 			"100"},
-	{"pumpshotgun",		"Pumpshotgun", 		"180"},
-	{"shotgun_chrome",	"Chrome Shotgun", 	"200"},
-	{"smg",				"Smg", 				"180"},
-	{"smg_silenced", 	"Silenced Smg", 	"200"},
-	{"smg_mp5",			"MP5", 				"250"},
-	{"rifle", 			"Rifle", 			"280"},
-	{"rifle_ak47", 		"AK47", 			"300"},
-	{"rifle_desert",	"Desert Rifle", 	"320"},
-	{"rifle_sg552", 	"SG552", 			"350"},
-	{"shotgun_spas",	"Spas Shotgun", 	"330"},
-	{"autoshotgun", 	"Autoshotgun", 		"330"},
-	{"hunting_rifle", 	"Hunting Rifle", 	"300"},
-	{"sniper_military", "Military Sniper", 	"350"},
-	{"sniper_scout", 	"SCOUT", 			"400"},
-	{"sniper_awp", 		"AWP",				"500"},
-	{"rifle_m60", 		"M60 Machine Gun", 	"1000"},
-	{"grenade_launcher","Grenade Launcher",	"1250"}
+	{"pistol",			"Pistol", 			"1"},
+	{"pistol_magnum",	"Magnum", 			"1"},
+	{"pumpshotgun",		"Pumpshotgun", 		"1"},
+	{"shotgun_chrome",	"Chrome Shotgun", 	"1"},
+	{"smg",				"Smg", 				"1"},
+	{"smg_silenced", 	"Silenced Smg", 	"1"},
+	{"smg_mp5",			"MP5", 				"1"},
+	{"rifle", 			"Rifle", 			"1"},
+	{"rifle_ak47", 		"AK47", 			"1"},
+	{"rifle_desert",	"Desert Rifle", 	"1"},
+	{"rifle_sg552", 	"SG552", 			"1"},
+	{"shotgun_spas",	"Spas Shotgun", 	"1"},
+	{"autoshotgun", 	"Autoshotgun", 		"1"},
+	{"hunting_rifle", 	"Hunting Rifle", 	"1"},
+	{"sniper_military", "Military Sniper", 	"1"},
+	{"sniper_scout", 	"SCOUT", 			"1"},
+	{"sniper_awp", 		"AWP",				"1"},
+	{"rifle_m60", 		"M60 Machine Gun", 	"1"},
+	{"grenade_launcher","Grenade Launcher",	"1"}
 };
 
 static char meleeMenu[][][] = 
 {
-	{"chainsaw",		"Chainsaw", 		"300"},
-	{"baseball_bat",	"Baseball Bat", 	"250"},
-	{"cricket_bat", 	"Cricket Bat", 		"250"},
-	{"crowbar", 		"Crowbar", 			"250"},
-	{"electric_guitar", "Electric Guitar", 	"250"},
-	{"fireaxe", 		"Fire Axe", 		"250"},
-	{"frying_pan", 		"Frying Pan", 		"250"},
-	{"katana", 			"Katana", 			"250"},
-	{"machete", 		"Machete", 			"250"},
-	{"tonfa", 			"Tonfa", 			"250"},
-	{"golfclub", 		"Golf Club", 		"250"},
-	{"knife", 			"Knife", 			"250"},
-	{"pitchfork", 		"Pitchfork", 		"250"},
-	{"shovel", 			"Shovel", 			"250"}
+	{"chainsaw",		"Chainsaw", 		"1"},
+	{"baseball_bat",	"Baseball Bat", 	"1"},
+	{"cricket_bat", 	"Cricket Bat", 		"1"},
+	{"crowbar", 		"Crowbar", 			"1"},
+	{"electric_guitar", "Electric Guitar", 	"1"},
+	{"fireaxe", 		"Fire Axe", 		"1"},
+	{"frying_pan", 		"Frying Pan", 		"1"},
+	{"katana", 			"Katana", 			"1"},
+	{"machete", 		"Machete", 			"1"},
+	{"tonfa", 			"Tonfa", 			"1"},
+	{"golfclub", 		"Golf Club", 		"1"},
+	{"knife", 			"Knife", 			"1"},
+	{"pitchfork", 		"Pitchfork", 		"1"},
+	{"shovel", 			"Shovel", 			"1"}
 };
 
 static char medicThrowableMenu[][][] =
 {
-	{"defibrillator",	"Defibrillator", 	"250"},
-	{"first_aid_kit",	"First Aid Kit", 	"250"},
-	{"pain_pills", 		"Pain Pill", 		"100"},
-	{"adrenaline",	 	"Adrenaline", 		"125"},
-	{"pipe_bomb", 		"Pipe Bomb", 		"150"},
-	{"molotov", 		"Molotov", 			"200"},
-	{"vomitjar", 		"Vomitjar", 		"225"}
+	{"defibrillator",	"Defibrillator", 	"1"},
+	{"first_aid_kit",	"First Aid Kit", 	"1"},
+	{"pain_pills", 		"Pain Pill", 		"1"},
+	{"adrenaline",	 	"Adrenaline", 		"1"},
+	{"pipe_bomb", 		"Pipe Bomb", 		"1"},
+	{"molotov", 		"Molotov", 			"1"},
+	{"vomitjar", 		"Vomitjar", 		"1"}
 };
 
 static char otherMenu[][][] =
 {
-	{"ammo",		 					"Ammo", 	 			"250"},
-	{"laser_sight",						"Laser Sight", 			"50"},
-	{"incendiary_ammo",					"Incendiary Ammo", 		"75"},
-	{"explosive_ammo",					"Explosive Ammo", 		"100"},
-	{"weapon_upgradepack_incendiary",	"Incendiary Pack", 		"200"},
-	{"weapon_upgradepack_explosive",	"Explosive Pack", 		"200"},
-	{"propanetank", 	 				"Propane Tank", 		"80"},
-	{"oxygentank",	 					"Oxygen Tank", 			"80"},
-	{"fireworkcrate",					"Firework Crate", 		"300"},
-	{"gascan",  						"Gascan",				"1000"},
-	{"cola_bottles",  					"Cola Bottles",			"1500"},
-	{"gnome",							"Gnome", 				"2000"},
+	{"ammo",		 					"Ammo", 	 			"1"},
+	{"laser_sight",						"Laser Sight", 			"1"},
+	{"incendiary_ammo",					"Incendiary Ammo", 		"1"},
+	{"explosive_ammo",					"Explosive Ammo", 		"1"},
+	{"weapon_upgradepack_incendiary",	"Incendiary Pack", 		"1"},
+	{"weapon_upgradepack_explosive",	"Explosive Pack", 		"1"},
+	{"propanetank", 	 				"Propane Tank", 		"1"},
+	{"oxygentank",	 					"Oxygen Tank", 			"1"},
+	{"fireworkcrate",					"Firework Crate", 		"1"},
+	{"gascan",  						"Gascan",				"1"},
+	{"cola_bottles",  					"Cola Bottles",			"1"},
+	{"gnome",							"Gnome", 				"1"},
 };
 
 static char infectedSpawnMenu[][][] =
 {
-	{"Suicide",		"Suicide", 			"0"},
-	{"Smoker",		"Smoker", 			"350"},
-	{"Boomer",		"Boomer", 			"250"},
-	{"Hunter",		"Hunter", 			"200"},
-	{"Spitter",		"Spitter", 			"400"},
-	{"Jockey",		"Jockey", 			"300"},
-	{"Charger",		"Charger", 			"350"},
-	{"Tank",		"Tank", 			"2500"}
+	{"Suicide",		"Suicide", 			"1"},
+	{"Smoker",		"Smoker", 			"1"},
+	{"Boomer",		"Boomer", 			"1"},
+	{"Hunter",		"Hunter", 			"1"},
+	{"Spitter",		"Spitter", 			"1"},
+	{"Jockey",		"Jockey", 			"1"},
+	{"Charger",		"Charger", 			"1"},
+	{"Tank",		"Tank", 			"1"}
 };
 
 //WeaponName/AmmoOffset/AmmoGive
 static char weapon_ammo[][][] =
 {
-	{"weapon_smg",		 				"5", 	"400"},
-	{"weapon_pumpshotgun",				"7", 	"64"},
-	{"weapon_rifle",					"3", 	"250"},
-	{"weapon_autoshotgun",				"8", 	"64"},
-	{"weapon_hunting_rifle",			"9", 	"100"},
-	{"weapon_smg_silenced",				"5", 	"400"},
-	{"weapon_smg_mp5", 	 				"5", 	"400"},
-	{"weapon_shotgun_chrome",	 		"7", 	"64"},
-	{"weapon_rifle_ak47",  				"3",	"250"},
-	{"weapon_rifle_desert",				"3", 	"250"},
-	{"weapon_sniper_military",			"10", 	"100"},
-	{"weapon_grenade_launcher", 	 	"17", 	"20"},
-	{"weapon_rifle_sg552",	 			"3", 	"250"},
-	{"weapon_rifle_m60",  				"6",	"200"},
-	{"weapon_sniper_awp", 	 			"10", 	"100"},
-	{"weapon_sniper_scout",	 			"10", 	"100"},
-	{"weapon_shotgun_spas",  			"8",	"64"}
+	{"weapon_smg",		 				"5", 	"1"},
+	{"weapon_pumpshotgun",				"7", 	"1"},
+	{"weapon_rifle",					"3", 	"1"},
+	{"weapon_autoshotgun",				"8", 	"1"},
+	{"weapon_hunting_rifle",			"9", 	"1"},
+	{"weapon_smg_silenced",				"5", 	"1"},
+	{"weapon_smg_mp5", 	 				"5", 	"1"},
+	{"weapon_shotgun_chrome",	 		"7", 	"1"},
+	{"weapon_rifle_ak47",  				"3",	"1"},
+	{"weapon_rifle_desert",				"3", 	"1"},
+	{"weapon_sniper_military",			"10", 	"1"},
+	{"weapon_grenade_launcher", 	 	"17", 	"1"},
+	{"weapon_rifle_sg552",	 			"3", 	"1"},
+	{"weapon_rifle_m60",  				"6",	"1"},
+	{"weapon_sniper_awp", 	 			"10", 	"1"},
+	{"weapon_sniper_scout",	 			"10", 	"1"},
+	{"weapon_shotgun_spas",  			"8",	"1"}
 };
 
 bool bLate;
@@ -489,7 +489,7 @@ public void ConVarChanged_Cvars(ConVar convar, const char[] oldValue, const char
 
 void GetCvars()
 {
-	g_iPlayerRequired = g_PlayerRequired.IntValue;
+	g_iPlayerRequired = 1;//
 	g_iBoomerKilled = g_BoomerKilled.IntValue;
 	g_iChargerKilled = g_ChargerKilled.IntValue;
 	g_iSmokerKilled = g_SmokerKilled.IntValue;
@@ -1563,7 +1563,7 @@ bool IsSurvivorPinned(int client)
 
 void CheckPlayers()
 {
-	int count = 0;
+	int count = 1;
 	for( int i = 1; i <= MaxClients; i++ )
 	{
 		if(IsClientInGame(i) && !IsFakeClient(i) && (GetClientTeam(i) == L4D_TEAM_SURVIVORS || GetClientTeam(i) == L4D_TEAM_INFECTED))

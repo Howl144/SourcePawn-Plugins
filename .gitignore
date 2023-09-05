@@ -4,3 +4,8 @@
 #ignore vscode
 *.vs
 *.vscode
+*.github
+
+#gpt
+*.jpg
+*.smx
