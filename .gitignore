@@ -6,6 +6,6 @@
 *.vscode
 *.github
 
-#gpt
-*.jpg
-*.smx
+# #gpt
+# *.jpg
+# *.smx
